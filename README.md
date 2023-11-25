@@ -1,5 +1,13 @@
 # GCP-Arcade-Facilitator-Program-November-2023
 
+
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/Google-Cloud-Arcade-Quiz-Solutions-November-2023?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/Google-Cloud-Arcade-Quiz-Solutions-November-2023?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/Google-Cloud-Arcade-Quiz-Solutions-November-2023?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Google-Cloud-Arcade-Quiz-Solutions-November-2023.svg?cache=remove)
+
+
+
 Unlock the secrets of the GCP Arcade November 2023 Challenge with this comprehensive open-source GitHub repository! Delve into meticulously crafted solutions for each challenge, accompanied by detailed explanations to guide you through the intricacies of Google Cloud Platform. Whether you're a novice or a seasoned developer, this repository is your one-stop destination for mastering the GCP Arcade November Challenge. Elevate your skills, unravel the complexities, and conquer the challenges with precision—all in one place!
 
 <br>
