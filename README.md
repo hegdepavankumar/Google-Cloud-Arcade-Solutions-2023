@@ -43,12 +43,13 @@ This is an introductory level micro-learning course that explores what large lan
 
 <BR>
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION : 
 
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/4b44f2c2-5bd7-4468-b7f3-d8ddd26f2410
 
 
 <hr>
-
 
 
 ## 2. Introduction to Generative AI
@@ -69,7 +70,10 @@ This is an introductory level microlearning course aimed at explaining what Gene
 
 <br>
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION : 
+
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/f5ea8f46-1e56-438b-9f4d-9624d44cb9d8
 
 
 
@@ -88,9 +92,14 @@ This is an introductory-level microlearning course aimed at explaining what resp
 
 <br>
 
-## Task-2 : [Click Here](https://www.cloudskillsboost.google/course_templates/554?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-november-genai-courses)
+## Task-3 : [Click Here](https://www.cloudskillsboost.google/course_templates/554?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-november-genai-courses)
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION : 
+
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/3288e41d-2a03-461c-8ee3-8c2feb7facc3
+
+
 
 
 <hr>
@@ -125,7 +134,11 @@ If you've asked yourself any of these questions, you're in the right place. This
 
 ## Task-1 : [Click Here](https://www.cloudskillsboost.google/course_templates/266?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-november-gcdl-courses) 
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION : 
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/9150fec0-016d-4cf0-80c7-e01130f58761
+
+
 
 <hr>
 
@@ -147,7 +160,12 @@ In this course, you'll learn what data is, historical ways companies have used i
 
 ## Task-2 : [Click Here](https://www.cloudskillsboost.google/paths/9/course_templates/267?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-gcdl-courses) 
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION :
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/66b2f4a4-3634-476c-8731-3c80c4afd406
+
+
+
 
 <hr>
 
@@ -172,7 +190,12 @@ This is the third course in the Cloud Digital Leader series. At the end of this 
 
 ## Task-3 : [Click Here](https://www.cloudskillsboost.google/paths/9/course_templates/265?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-gcdl-courses) 
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION :
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/65ff44da-e27c-4517-82d0-42724744cfe9
+
+
+
 
 <hr>
 
@@ -192,7 +215,10 @@ This course examines cost management, security, and operations in the cloud. Fir
 
 ## Task-4 : [Click Here](https://www.cloudskillsboost.google/paths/9/course_templates/271?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade23-gcdl-courses) 
 
-## Video SOLUTION : [Click Here]()
+## Video SOLUTION : 
+
+
+https://github.com/hegdepavankumar/GCP-Arcade-Facilitator-Program-November-2023/assets/85627085/a273c712-6524-4f62-b3fd-118d6d45c7f1
 
 
 
@@ -202,7 +228,8 @@ This course examines cost management, security, and operations in the cloud. Fir
 ## REQUIRED for prizes: Subscribe to activate the Arcade for your account:
 
 - Do visit the website for claiming the prizes : [clik here](https://go.qwiklabs.com/arcade)
-- Perform the all the necessary steps: 
+- Perform the all the necessary steps:
+- send your gcp registered gmail with arcade program! to activate the prizes!!
 
 
 
